@@ -2,6 +2,11 @@
 
 A real-time odds tracker for NFL, NBA, and MLB across major US sportsbooks. Polls [The Odds API](https://the-odds-api.com) on a configurable interval, detects line movements, and streams them live to the browser.
 
+<img width="1846" height="895" alt="image" src="https://github.com/user-attachments/assets/ff7eae12-1309-42c9-87ee-bdb1826099fc" />
+<img width="1857" height="883" alt="image" src="https://github.com/user-attachments/assets/7b1e4b8f-cc7c-463b-98fa-cc7761be8eda" />
+
+
+
 ## Features
 
 - **Live odds table** — best available price highlighted per game, market, and outcome across DraftKings, FanDuel, BetMGM, and BetRivers
